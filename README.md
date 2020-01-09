@@ -1,4 +1,6 @@
 # hello-world
-Tutorial
-Testing tutorial part 1
-This content is different from master
+
+
+Tutorial. This content is different from master
+
+I'm editing this version of the read-me file.
